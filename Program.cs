@@ -10,7 +10,7 @@
 //["Russia", "Denmark", "Kazan"] -> []
 
 
-string[] array = new string[8] {"Russia", "way", "Ufa", "aim", "USA", "Mexica", "Canada", "key"};
+string[] array = new string[8] {"Russia", "way", "Ufa", "aim", "USA", "Mexica", "UK", "key"};
 string[] secondarray = new string[array.Length];
 void SortArray(string[] array, string[] secondarray)
 {
